@@ -1,0 +1,169 @@
+java
+
+1.what id difrence between ArrayList and LinkedList.
+2.when we should go for String ,StringBuffer and StringBuilder.
+hash code and equals method
+difference between string buffer and string
+string pool
+inner classes
+factory design pattern
+what is comparator where it is implemented
+explain me internal structure of hash map
+what is oop?
+what is inheritance?
+what is Thread?
+How many ways to create Thread?
+which one is best way?
+what is String?
+Imuttable Object?
+Synchronization
+Exception Handling?
+Collection -- set,arraylist,map
+what is oop? 
+what are OOPconcepts?
+What are new Features in java8
+What is Thread?
+What is String Constant pool?
+Which is thread safe in StringBuilder,StringBuffer?
+if one thread is started,then immediately the same thread is called one again ..
+What happens?
+What is finally block?
+How many catch blocks can be used for a single try?
+What is the catching Exception hierarchy?
+What will happen if the Hierarchy is reversed?
+What are the methods involved in b/w wait and sleep state?
+in a thread?
+1.Difference between hashmap and hashtable
+2.In How many ways you can create a thread
+3.What do mean by Custom Exceptipons
+
+what is Reflection?
+which is super class of all exception?
+what is daimand problem?
+what is different between  checked and unchecked exception?
+15.)how to write Custom Exception?
+16.)what is different between hashMap and hashTable?
+17.)how to make the synchronized in collection?
+18.)how to create Serializable?
+
+20.)what is overloading and overridding?
+string,hashcode(),equals(),immutable class
+
+comparator,comparable
+hashmap and treemap
+final class
+about constructor
+String immutability
+StringBuffer Vs StringBuilder
+HashMap internal implementation
+design patterns
+singleton design pattern Vs sigleton bean scope
+why set default collection in mapping?
+
+HashMap Vs ConcurrentHashMap
+memory management
+stackoverflowerror---how to handle it?
+runtime Exception(why we extends this in our custom exception)
+concurrentModificationException
+polymarphism
+exception handling
+interfaces and abstract class(where we use?)
+)Abstraction,
+method overriding,
+method overloading,
+Collections(senario based quns)
+inheritence
+String handling(string reverse,pool concept,intern(),Builder Vs buffer)
+Exceptions(custom exceptions,real time use of exceptions),
+Collections(arraylist,hashset,Linkedlist,HashMap)
+converting array to list
+types of object creation,
+serialization(where we used in projects)
+ DIfference between Abstract class and Interface
+ How to retrieve objects from HashTable
+ Create enum class, create list object and add elements,iterate list object with enumarator
+ Functional Interface
+5)Lambda Expression
+Create Thread class with small example
+Sort the list of employees based on age
+
+What is Singleton How to write Singleton class write one Example?
+
+What is Factory Explain?
+
+How to execute multiple threads Parllely which framework you are used?
+which jdk version used in your project?
+Differences between jdk1.7 and jdk1.8?
+How many ways to create a thread?
+4)what is polymorphism?
+7)How did you handle Exceptions in your project?
+8)what is string buffer and string builder?
+9)explain hashmap?
+10)what is set?
+11)how you sort list?
+12)how you find the duplicates in list?
+16)How you preserve order in hashmap?
+17)what is LinkedHashmap?
+25)oops concepts?
+20)java8 features?
+21)What is lambda expression?
+22)what is serialization?
+23)what is serialization id?
+27)about generics?
+singleton design pattern&when we should go for singleton design pettern
+customer class having 100 customers then how to sort?
+what is Reflection API?
+What is java?
+Featues of java?
+Version?
+how many edditions are there ?
+oops?
+static ?
+diff bw static and constant?
+diff bw jdk 1.7 and 1.8
+6)Internal implimentation of has map and tree map? and where we  have to used?
+12)Method overloading?
+
+-> How to load the class ?
+-> Difference between JDK,JRE,JVM ?
+-> String s = "Apple" can you add 'o' in between 'p-p' ?
+-> Diffrernce between Arraylist vs Linkedlist ?
+-> Diffrernce between Comparable vs Comparator ?
+-> Hashmap Internal Structure ?
+What is Internal process for System.out.println(); ?
+-> What is InnerClasses ?
+-> Hashmap Internal Structure ?
+ How to load the class ?
+ 1.what does the main method returns?
+ what is method overloading and method overriding?
+ 3.what is data abstraction?
+4.can we define a method as final?
+.Differences b/w final, finally, finalize?
+Diff b/w comparable and comparator?
+9.what is yield method?
+10.what is ArrayList?
+11.Internal working of HashSet?
+18.Diff between JVM and JDK?
+19.why java is platform independent?
+20.what is a abstract class?
+21.what happens while deleting an element from an ArrayList?
+23.what is design pattern?explain singleton design pattern?
+24.what happens when we override the equals() and hashCode() ?
+comparator,comparable
+hashmap and treemap
+final class
+about constructor
+String immutability
+StringBuffer Vs StringBuilder
+HashMap internal implementation
+design patterns
+singleton design pattern Vs sigleton bean scope
+why set default collection in mapping?
+HashMap Vs ConcurrentHashMap
+
+stackoverflowerror---how to handle it?
+collection interface and collection class
+types of thread 
+diff between vector and hash set
+interface and collection class
+copy constructor
